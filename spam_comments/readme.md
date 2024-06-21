@@ -1,4 +1,3 @@
-Certainly! Let's dive into a more detailed explanation of each part of the code:
 
 ### 1. `spam_keywords` List
 
